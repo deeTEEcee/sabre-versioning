@@ -1,0 +1,76 @@
+Air Availability :   2.3.0 (OTA_AirAvailLLS) - https://developer.sabre.com/docs/read/soap_apis/air/search/air_availability/resources
+Basic Fare Shop :    2.9.0 (BargainFinderPlusLLS) - https://developer.sabre.com/docs/read/soap_apis/air/search/basic_fare_shop/resources
+Calculate Air Mileage : 2.0.0 (MileageLLS) - https://developer.sabre.com/docs/read/soap_apis/air/search/calculate_air_mileage/resources
+Flight Schedules :   2.1.0 (OTA_AirScheduleLLS) - https://developer.sabre.com/docs/read/soap_apis/air/search/flight_schedules/resources
+Get Air Connection Points : 1.1.1 (AirConnectionPointLLS) - https://developer.sabre.com/docs/read/soap_apis/air/search/get_air_connection_points/resources
+Get Air Connection Times : 1.1.1 (AirConnectionTimeLLS) - https://developer.sabre.com/docs/read/soap_apis/air/search/get_air_connection_times/resources
+Get Flight Details : 2.0.0 (OTA_AirFlifoLLS) - https://developer.sabre.com/docs/read/soap_apis/air/search/get_flight_details/resources
+Air Fare by City Pairs : 2.4.0 (FareLLS) -    https://developer.sabre.com/docs/read/soap_apis/air/book/air_fare_by_city_pairs/resources
+Air Fare Rules :     2.2.0 (OTA_AirRulesLLS) - https://developer.sabre.com/docs/read/soap_apis/air/book/air_fare_rules/resources
+Book Air Segment :   2.1.0 (OTA_AirBookLLS) - https://developer.sabre.com/docs/read/soap_apis/air/book/book_air_segment/resources
+Book from Air Availability : 2.1.0 (ShortSellLLS) - https://developer.sabre.com/docs/read/soap_apis/air/book/book_from_air_availability/resources
+Cancel Air Seat :    2.1.0 (AirSeatCancelLLS) - https://developer.sabre.com/docs/read/soap_apis/air/book/cancel_air_seat/resources
+Cancel Itinerary Segments : 2.0.1 (OTA_CancelLLS) - https://developer.sabre.com/docs/read/soap_apis/air/book/cancel_itinerary_segments/resources
+Delete Price Quote : 2.0.0 (DeletePriceQuoteLLS) - https://developer.sabre.com/docs/read/soap_apis/air/book/delete_price_quote/resources
+Display Price Quote : 2.5.0 (DisplayPriceQuoteLLS) - https://developer.sabre.com/docs/read/soap_apis/air/book/display_price_quote/resources
+Fare Rules from Air Price : 2.0.0 (RulesFromPriceLLS) - https://developer.sabre.com/docs/read/soap_apis/air/book/fare_rules_from_air_price/resources
+Flight Details :     2.0.0 (VerifyFlightDetailsLLS) - https://developer.sabre.com/docs/read/soap_apis/air/book/flight_details/resources
+Orchestrated Air Booking : 3.6.0 (EnhancedAirBook) - https://developer.sabre.com/docs/read/soap_apis/air/book/orchestrated_air_booking/resources
+Price Air Itinerary : 2.12.0 (OTA_AirPriceLLS) - https://developer.sabre.com/docs/read/soap_apis/air/book/price_air_itinerary/resources
+Reserve Air Seat :   2.0.0 (AirSeatLLS) - https://developer.sabre.com/docs/read/soap_apis/air/book/reserve_air_seat/resources
+Sell Miscellaneous Segments : 2.0.0 (MiscSegmentSellLLS) - https://developer.sabre.com/docs/read/soap_apis/air/book/sell_miscellaneous_segments/resources
+Auto Price Air Exchanges : 2.4.0 (AutomatedExchangesLLS) - https://developer.sabre.com/docs/read/soap_apis/air/fulfill/auto_price_air_exchanges/resources
+Get Credit Card Approval : 2.1.0 (CreditVerificationLLS) - https://developer.sabre.com/docs/read/soap_apis/air/fulfill/get_credit_card_approval/resources
+Get EMD Documents :  2.0.1 (EMD_DisplayLLS) - https://developer.sabre.com/docs/read/soap_apis/air/fulfill/get_emd_documents/resources
+Get EMD Transactions : 2.0.0 (DailyEMD_ReportLLS) - https://developer.sabre.com/docs/read/soap_apis/air/fulfill/get_emd_transactions/resources
+Get eTicket Details : 2.0.0 (eTicketCouponLLS) - https://developer.sabre.com/docs/read/soap_apis/air/fulfill/get_eticket_details/resources
+Get Refund Report :  2.0.0 (DailyRefundReportLLS) - https://developer.sabre.com/docs/read/soap_apis/air/fulfill/get_refund_report/resources
+Get Sales Reports :  2.0.0 (DailySalesReportLLS) - https://developer.sabre.com/docs/read/soap_apis/air/fulfill/get_sales_reports/resources
+Get Unused eTickets : 2.0.0 (UnusedeTicketReportLLS) - https://developer.sabre.com/docs/read/soap_apis/air/fulfill/get_unused_etickets/resources
+Issue Air Ticket :   2.7.0 (AirTicketLLS) - https://developer.sabre.com/docs/read/soap_apis/air/fulfill/issue_air_ticket/resources
+Revalidate eTicket  : 2.0.0 (eTicketRevalidateLLS) - https://developer.sabre.com/docs/read/soap_apis/air/fulfill/revalidate_eticket/resources
+Void Air Ticket :    2.0.2 (VoidTicketLLS) - https://developer.sabre.com/docs/read/soap_apis/air/fulfill/void_air_ticket/resources
+Encode Decode IATA Codes : 2.0.0 (EncodeDecodeLLS) - https://developer.sabre.com/docs/read/soap_apis/air/utility/encode_decode_iata_codes/resources
+Get Vendor Codes :   2.0.0 (VendorCodesLLS) - https://developer.sabre.com/docs/read/soap_apis/air/utility/get_vendor_codes/resources
+Car Availability :   2.4.0 (OTA_VehAvailRateLLS) - https://developer.sabre.com/docs/read/soap_apis/ground_transportation/search/car_availability/resources
+Car Locations :      2.2.0 (VehLocationFinderLLS) - https://developer.sabre.com/docs/read/soap_apis/ground_transportation/search/car_locations/resources
+Car Locations By Airport/City : 2.0.0 (VehLocationListLLS) - https://developer.sabre.com/docs/read/soap_apis/ground_transportation/search/car_locations_by_airport_city/resources
+Car Location Details : 2.1.0 (OTA_VehLocDetailLLS) - https://developer.sabre.com/docs/read/soap_apis/ground_transportation/search/car_location_details/resources
+Book Car Reservation : 2.0.2 (OTA_VehResLLS) - https://developer.sabre.com/docs/read/soap_apis/ground_transportation/book/book_car_reservation/resources
+Car Rate Code Rules : 2.2.0 (VehRateRulesLLS) - https://developer.sabre.com/docs/read/soap_apis/ground_transportation/book/car_rate_code_rules/resources
+Car Rates Non-Airport : 2.0.0 (VehQuoteLocationListLLS) - https://developer.sabre.com/docs/read/soap_apis/ground_transportation/book/car_rates_non_airport/resources
+Modify Car Reservation : 2.1.0 (VehResModifyLLS) - https://developer.sabre.com/docs/read/soap_apis/ground_transportation/book/modify_car_reservation/resources
+Hotel Availability : 2.2.1 (OTA_HotelAvailLLS) - https://developer.sabre.com/docs/read/soap_apis/hotel/search/hotel_availability/resources
+Hotel Property Description : 2.3.0 (HotelPropertyDescriptionLLS) - https://developer.sabre.com/docs/read/soap_apis/hotel/search/hotel_property_description/resources
+Hotel Rate Description : 2.3.0 (HotelRateDescriptionLLS) - https://developer.sabre.com/docs/read/soap_apis/hotel/search/hotel_rate_description/resources
+Book Hotel Reservation : 2.2.0 (OTA_HotelResLLS) - https://developer.sabre.com/docs/read/soap_apis/hotel/book/book_hotel_reservation/resources
+Modify Hotel Reservation : 2.1.0 (HotelResModifyLLS) - https://developer.sabre.com/docs/read/soap_apis/hotel/book/modify_hotel_reservation/resources
+http://files.developer.sabre.com/wsdl/sabreXML1.0.00/GetThere/Sabre_OTA_ProfileUploadRQ.xsd did not match
+http://webservices.sabre.com/wsdl/sabreXML1.0.00/usg/SessionCreateRQ.xsd did not match
+http://webservices.sabre.com/wsdl/sabreXML1.0.00/usg/SessionCloseRQ.xsd did not match
+http://webservices.sabre.com/wsdl/sabreXML1.0.00/usg/OTA_PingRQ.xsd did not match
+Add Arrival Unknown Segment : 2.0.2 (ARUNK_LLS) -  https://developer.sabre.com/docs/read/soap_apis/management/itinerary/add_arrival_unknown_segment/resources
+Add Accounting Line : 2.0.0 (AddAccountingLineLLS) - https://developer.sabre.com/docs/read/soap_apis/management/itinerary/add_accounting_line/resources
+Add Itinerary Info : 2.1.0 (TravelItineraryAddInfoLLS) - https://developer.sabre.com/docs/read/soap_apis/management/itinerary/add_itinerary_info/resources
+Add Itinerary Remark : 2.1.1 (AddRemarkLLS) - https://developer.sabre.com/docs/read/soap_apis/management/itinerary/add_itinerary_remark/resources
+Add Special Service : 2.2.0 (SpecialServiceLLS) - https://developer.sabre.com/docs/read/soap_apis/management/itinerary/add_special_service/resources
+Build Invoice and Itinerary : 2.0.0 (InvoiceItineraryLLS) - https://developer.sabre.com/docs/read/soap_apis/management/itinerary/build_invoice_and_itinerary/resources
+Delete Special Service : 2.2.0 (DeleteSpecialServiceLLS) - https://developer.sabre.com/docs/read/soap_apis/management/itinerary/delete_special_service/resources
+Divide Itinerary :   2.0.2 (TravelItineraryDivideLLS) - https://developer.sabre.com/docs/read/soap_apis/management/itinerary/divide_itinerary/resources
+End Transaction :    2.0.5 (EndTransactionLLS) - https://developer.sabre.com/docs/read/soap_apis/management/itinerary/end_transaction/resources
+Get ERP TripData :   2.0.0 (GT_ERP_TravelItineraryRead) - https://developer.sabre.com/docs/read/soap_apis/management/itinerary/get_erp_tripdata/resources
+Get ERP TripLocator Data : 1.0.0 (GT_ERP_TravelItineraryLocatorRead) - https://developer.sabre.com/docs/read/soap_apis/management/itinerary/get_erp_triplocator_data/resources
+Get Itinerary History : 2.3.0 (TravelItineraryHistoryLLS) - https://developer.sabre.com/docs/read/soap_apis/management/itinerary/get_itinerary_history/resources
+Ignore Transaction : 2.0.0 (IgnoreTransactionLLS) - https://developer.sabre.com/docs/read/soap_apis/management/itinerary/ignore_transaction/resources
+Modify Itinerary :   2.1.0 (TravelItineraryModifyInfoLLS) - https://developer.sabre.com/docs/read/soap_apis/management/itinerary/modify_itinerary/resources
+Modify Itinerary Remark : 2.1.2 (ModifyRemarkLLS) - https://developer.sabre.com/docs/read/soap_apis/management/itinerary/modify_itinerary_remark/resources
+Reconfirm Reservation : 2.0.0 (ResReconfirmLLS) - https://developer.sabre.com/docs/read/soap_apis/management/itinerary/reconfirm_reservation/resources
+Verify Itinerary Address : 2.0.1 (AddressVerificationLLS) - https://developer.sabre.com/docs/read/soap_apis/management/itinerary/verify_itinerary_address/resources
+Access Queue :       2.0.6 (QueueAccessLLS) - https://developer.sabre.com/docs/read/soap_apis/management/queue/access_queue/resources
+Get Queue Activity : 2.0.0 (QueueAnalysisLLS) - https://developer.sabre.com/docs/read/soap_apis/management/queue/get_queue_activity/resources
+Get Queue Count :    2.2.0 (QueueCountLLS) - https://developer.sabre.com/docs/read/soap_apis/management/queue/get_queue_count/resources
+Move Queue Message : 2.0.0 (QueueMoveLLS) - https://developer.sabre.com/docs/read/soap_apis/management/queue/move_queue_message/resources
+Place Queue Message : 2.0.4 (QueuePlaceLLS) - https://developer.sabre.com/docs/read/soap_apis/management/queue/place_queue_message/resources
+Change AAA :         2.0.3 (ContextChangeLLS) - https://developer.sabre.com/docs/read/soap_apis/management/utility/change_aaa/resources
+Designate Printer :  2.0.1 (DesignatePrinterLLS) - https://developer.sabre.com/docs/read/soap_apis/management/utility/designate_printer/resources
+Get Currency Conversion : 2.1.0 (DisplayCurrencyLLS) - https://developer.sabre.com/docs/read/soap_apis/management/utility/get_currency_conversion/resources
